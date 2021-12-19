@@ -1,6 +1,6 @@
 let pecas = ['bomba dágua', ' tensores', ' correia dentada', ' pastilhas', ' sapatas', ' bobinas', ' cabos de vela'];
 
-function atualizarColecaoAutoPecas(pecas, peca){ //pecas & peca se refere a palavra 'peças'.
+function atualizarColecaoAutoPecas(pecas, peca){ //pecas & peca se referem a palavra 'peças/peça'.
 
     if (pecas.indexOf(peca) === -1) {
 
